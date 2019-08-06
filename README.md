@@ -1,3 +1,4 @@
 # learnstorage
 Creat a new branch is quick.
-And is so easy.
+And is so much easy.
+
